@@ -1,0 +1,24 @@
+{
+  "name": "crypto-price-tracker-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start -p 3001"
+  },
+  "dependencies": {
+    "next": "13.4.4",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "@tanstack/react-query": "^4.36.1",
+    "next-themes": "^0.2.0",
+    "chart.js": "^4.0.0",
+    "react-chartjs-2": "^5.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.0",
+    "postcss": "^8.0.0",
+    "tailwindcss": "^3.0.0"
+  }
+}
