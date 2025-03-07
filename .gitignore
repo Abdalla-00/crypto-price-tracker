@@ -24,3 +24,7 @@ pnpm-debug.log*
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml

@@ -6,7 +6,7 @@ module.exports = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'your-github-username', // Replace with your GitHub username
+    organizationName: 'Abdalla-00',
     projectName: 'crypto-price-tracker', // Replace with your repository name
     presets: [
         [
@@ -16,7 +16,7 @@ module.exports = {
                     // Serve docs at the root URL
                     routeBasePath: '/',
                     sidebarPath: require.resolve('./sidebars.js'),
-                    editUrl: 'https://github.com/your-github-username/crypto-price-tracker/edit/main/docs/',
+                    editUrl: 'https://github.com/Abdalla-00/crypto-price-tracker/edit/main/docs/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
